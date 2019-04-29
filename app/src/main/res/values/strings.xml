@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="action_settings">Settings</string>
+    <string name="red_word">Red</string>
+    <string name="green_word">Green</string>
+    <string name="blue_word">Blue</string>
+</resources>
